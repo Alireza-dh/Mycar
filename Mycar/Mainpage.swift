@@ -213,7 +213,7 @@ struct HomeView: View      {
         
         VStack(spacing: 30)
         {
-           Text("")
+        
             Image("gazeboCar")
                 .resizable()
                   .scaledToFit()
